@@ -58,3 +58,4 @@ IPFS uses transport-encryption but not content encryption. This means that your 
 - [OrbitDB](https://github.com/orbitdb)
 - [Peergos](https://peergos.org/)
 - [Textile](https://www.textile.io/)
+- [Skiff Drive](https://skiff.com/drive)
